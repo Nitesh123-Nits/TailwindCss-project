@@ -4,3 +4,13 @@ body{
 button{
     background-color: rgb(232, 130, 6) !important;
 }
+header{
+    position: fixed;
+    width: 100%;
+    background-color: rgb(6, 6, 75);
+    z-index: 333;
+}
+header a{
+    color: aliceblue;
+    
+}
